@@ -70,7 +70,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="powered by😇", url="t.me/EVIL_XOBOT?startgroup=true"),
+            text="powered by😇", url="t.me/Nonsense_proRobot?startgroup=true"),
     ],
      [
         InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭💝", callback_data="evil_"),
@@ -79,7 +79,7 @@ buttons = [
 
      ],
      [  
-        InlineKeyboardButton(text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭🛠", url="https://t.me/EVIL_SUPPORT_CHAT"),
+        InlineKeyboardButton(text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭🛠", url="https://t.me/https://t.me/NONSENSE_HAWELI"),
         InlineKeyboardButton(text="𝐑𝐞𝐩𝐨🇮🇳", url="https://github.com/jayanti01/EvilBot"),
     ], 
 
@@ -92,7 +92,7 @@ HELP_STRINGS = """
 `𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 𝚋𝚎𝚕𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚖𝚘𝚍𝚞𝚕𝚎𝚜..`"""
 evil_IMG = "https://telegra.ph/file/1aa73f560fdd4dd6ad370.jpg"
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @shrvan42 \
+ You can support the project via [Paypal](#) or by contacting @chaudhary_Anjana \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 IMPORTED = {}
